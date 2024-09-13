@@ -1,0 +1,17 @@
+{
+  "name": "reto-semanal-cuatro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tsc && node build/main.js 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.5.4",
+    "ts-node": "^10.9.2",
+    "typecript": "^0.0.1-security"
+  }
+}
